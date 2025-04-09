@@ -1,0 +1,6 @@
+# Core dependencies
+numpy>=1.19.0
+requests>=2.25.0
+
+# You may need to add specific versions of other dependencies
+# based on your project requirements 
